@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassEffect3Extractor", "MassEffect3Extractor\MassEffect3Extractor.csproj", "{ACDB9229-BB6E-4851-A46F-8F668D405908}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassEffect3Tools", "MassEffect3Tools\MassEffect3Tools.csproj", "{2F2B63C4-5CEE-41A6-A163-0B06A48FDF32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTester", "ConsoleTester\ConsoleTester.csproj", "{FD564CD4-F71C-429C-985C-57EBB1A63043}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACDB9229-BB6E-4851-A46F-8F668D405908}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{ACDB9229-BB6E-4851-A46F-8F668D405908}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{ACDB9229-BB6E-4851-A46F-8F668D405908}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{ACDB9229-BB6E-4851-A46F-8F668D405908}.Debug|x86.ActiveCfg = Debug|x86
+		{ACDB9229-BB6E-4851-A46F-8F668D405908}.Debug|x86.Build.0 = Debug|x86
+		{ACDB9229-BB6E-4851-A46F-8F668D405908}.Release|Any CPU.ActiveCfg = Release|x86
+		{ACDB9229-BB6E-4851-A46F-8F668D405908}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{ACDB9229-BB6E-4851-A46F-8F668D405908}.Release|Mixed Platforms.Build.0 = Release|x86
+		{ACDB9229-BB6E-4851-A46F-8F668D405908}.Release|x86.ActiveCfg = Release|x86
+		{ACDB9229-BB6E-4851-A46F-8F668D405908}.Release|x86.Build.0 = Release|x86
+		{2F2B63C4-5CEE-41A6-A163-0B06A48FDF32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F2B63C4-5CEE-41A6-A163-0B06A48FDF32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F2B63C4-5CEE-41A6-A163-0B06A48FDF32}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{2F2B63C4-5CEE-41A6-A163-0B06A48FDF32}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{2F2B63C4-5CEE-41A6-A163-0B06A48FDF32}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2F2B63C4-5CEE-41A6-A163-0B06A48FDF32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F2B63C4-5CEE-41A6-A163-0B06A48FDF32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F2B63C4-5CEE-41A6-A163-0B06A48FDF32}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{2F2B63C4-5CEE-41A6-A163-0B06A48FDF32}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{2F2B63C4-5CEE-41A6-A163-0B06A48FDF32}.Release|x86.ActiveCfg = Release|Any CPU
+		{FD564CD4-F71C-429C-985C-57EBB1A63043}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{FD564CD4-F71C-429C-985C-57EBB1A63043}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{FD564CD4-F71C-429C-985C-57EBB1A63043}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{FD564CD4-F71C-429C-985C-57EBB1A63043}.Debug|x86.ActiveCfg = Debug|x86
+		{FD564CD4-F71C-429C-985C-57EBB1A63043}.Debug|x86.Build.0 = Debug|x86
+		{FD564CD4-F71C-429C-985C-57EBB1A63043}.Release|Any CPU.ActiveCfg = Release|x86
+		{FD564CD4-F71C-429C-985C-57EBB1A63043}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{FD564CD4-F71C-429C-985C-57EBB1A63043}.Release|Mixed Platforms.Build.0 = Release|x86
+		{FD564CD4-F71C-429C-985C-57EBB1A63043}.Release|x86.ActiveCfg = Release|x86
+		{FD564CD4-F71C-429C-985C-57EBB1A63043}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
